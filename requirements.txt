@@ -1,0 +1,6 @@
+flask
+pymongo
+python-docx
+requests
+gunicorn
+huggingface_hub
